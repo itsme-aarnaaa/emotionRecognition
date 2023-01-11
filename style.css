@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    color:darksalmon;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color:darksalmon;
+}
+.object_names{
+    color:lightskyblue;
+}
+#cam{
+    border: 3px dashed purple;
+    width: 350px;
+    height: 300px;
+}
+#result_obj_name, #result_obj_accuracy{
+color: rebeccapurple;
+}
